@@ -1,0 +1,10 @@
+2.1 Why are the variables declared as private?
+To protect the data (encapsulation). Direct access from outside the class is prevented so that data can only be changed through controlled methods (setters).
+
+2.2 What happens if the variables are declared public?
+Anyone can directly change the values without any validation. This breaks data integrity and encapsulation principles.
+
+2.3 Why do we use getters and setters?
+Getters allow reading private data safely.
+Setters allow controlled modification (we can add validation later).
+This is the proper way to implement encapsulation in OOP.
