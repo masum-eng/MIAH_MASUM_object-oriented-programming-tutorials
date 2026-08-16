@@ -21,19 +21,7 @@
 This repository contains all my weekly tutorial works for the Object Oriented Programming subject. I have completed the tasks from Week 1 until Week 10 and organized them properly in different folders.
 
 ---
-
-## Folder Structure
-├── tutorial_1/
-├── tutorial_2/
-├── tutorial_3-4/
-├── week_5/
-├── week_6/
-├── week_7/
-├── week_8-9/
-└── week_10/
-
-
----
+ 
 
 ## Topics Covered
 
